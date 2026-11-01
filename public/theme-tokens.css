@@ -1,0 +1,17 @@
+/* Extracted via tpl-tools-design-extractor (Kinetic Typography Creative Studio (Locomotive / Studio Freight Style)) */
+:root {
+  --font-primary: 'Inter', sans-serif;
+  --font-accent: 'Syne', sans-serif;
+  --color-primary: #E11D48;
+  --brand-primary: var(--color-primary);
+  --color-dark: #0A0A0A;
+  --brand-dark: var(--color-dark);
+  --bg-main: #FAF9F6;
+  --bg-canvas: #F0EFEA;
+  --bg-sand: var(--bg-canvas);
+  --border-color: #DFDDD5;
+  --grid-gap-desktop: 36px 24px;
+  --grid-gap-mobile: 20px 16px;
+  --radius: 4px;
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
